@@ -9,7 +9,7 @@
 This text is *italic*<br/>
 This text is _italic_
 
-<!-- 굵게 -->
+<!-- 굵 -->
 This text is **bold**<br/>
 This text is __blod__
 
